@@ -21,6 +21,8 @@
     "url": "https://github.com/Hizon9/herokuTestApp/issues"
   },
   "dependencies": {
-    "express": "~3.4.8"
+    "express": "~3.4.8",
+    "fs": "0.0.1-security",
+    "http": "0.0.0"
   }
 }
